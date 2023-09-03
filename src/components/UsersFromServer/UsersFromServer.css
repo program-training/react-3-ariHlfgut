@@ -1,0 +1,12 @@
+.card {
+  margin: 10px;
+  border: 3px solid rgb(194, 79, 79);
+
+  background-color: rgb(199, 152, 24);
+  justify-content: center;
+  box-shadow: 7px 3px 3px rgb(231, 116, 8);
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+}
